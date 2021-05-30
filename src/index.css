@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+}
+.mt {
+  margin-top: 1rem;
+}
+.m {
+  margin: 1rem;
+}
+.mb {
+  margin-bottom: 1rem;
+}
+.mx {
+  margin: 0 1rem;
+}
+#mx {
+  margin: 0 1rem;
+}
+.p {
+  padding: 1rem;
+}
+h1 {
+  margin-left: 8rem;
+}
+
+.active {
+  background-color: tomato;
+  color: white;
+  border: tomato;
+}
